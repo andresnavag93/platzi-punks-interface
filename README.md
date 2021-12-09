@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+## Link IPFS
+
+Platzi Punk Interface: [https://platzi-punks-interface.vercel.app/](https://platzi-punks-interface.vercel.app/).
+IPFS CIDv1: bafybeide6y3uq3fsk3y7pgihkzu2sm7o5x6ly6j7hvwrv4mxfzt6z5f55i
+
+## Resumen
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
