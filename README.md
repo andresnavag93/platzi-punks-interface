@@ -4,7 +4,7 @@
 
 ### Url address
 
-- Link Url: [https://vercel.com/andresnavag93/platzi-punks-interface](https://vercel.com/andresnavag93/platzi-punks-interface)
+- Link Url: [https://platzi-punks-interface.vercel.app/#/](https://platzi-punks-interface.vercel.app/#/)
 
 ### Technologies / Tools
 
